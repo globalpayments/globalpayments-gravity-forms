@@ -7,9 +7,9 @@
  *
  * @category Authentication
  * @package  HPS
- * @author   Heartland Payment Systems <entapp_devportal@e-hps.com>
- * @license  Custom https://github.com/hps/heartland-php/blob/master/LICENSE.txt
- * @link     https://developer.heartlandpaymentsystems.com
+ * @author   Global Payments <developersupport@globalpay.com>
+ * @license  Custom https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
+ * @link     https://developer.globalpayments.com
  */
 
 // If already defined, don't redefine it
@@ -25,7 +25,7 @@ if (class_exists('HeartlandJWT')) {
  * @category Authentication
  * @package  HPS
  * @author   Heartland Payment Systems <entapp_devportal@e-hps.com>
- * @license  Custom https://github.com/hps/heartland-php/blob/master/LICENSE.txt
+ * @license  Custom https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
  * @link     https://developer.heartlandpaymentsystems.com
  */
 class HeartlandJWT

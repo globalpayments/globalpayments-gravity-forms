@@ -7,8 +7,8 @@
  * @category PHP
  * @package  HPS
  * @author   Heartland Payment Systems <EntApp_DevPortal@e-hps.com>
- * @license  https://github.com/hps/heartland-php/blob/master/LICENSE.txt Custom
- * @link     https://github.com/hps/heartland-php
+ * @license  https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
+ * @link     https://github.com/globalpayments/php-sdk
  */
 
 /**
@@ -17,8 +17,8 @@
  * @category PHP
  * @package  HPS
  * @author   Heartland Payment Systems <EntApp_DevPortal@e-hps.com>
- * @license  https://github.com/hps/heartland-php/blob/master/LICENSE.txt Custom
- * @link     https://github.com/hps/heartland-php
+ * @license  https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
+ * @link     https://github.com/globalpayments/php-sdk
  */
 class HpsMasterPassService
     extends HpsCentinelGatewayService

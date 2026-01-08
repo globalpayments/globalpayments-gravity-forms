@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: Heartland Secure Submit Addon for Gravity Forms
- * Plugin URI: https://developer.heartlandpaymentsystems.com/securesubmit
- * Description: Integrates Gravity Forms with SecureSubmit, enabling end users to purchase goods and services through Gravity Forms.
- * Version: 2.1.3
- * Author: SecureSubmit
- * Author URI: https://developer.heartlandpaymentsystems.com/securesubmit
+ * Plugin Name: Global Payments SecureSubmit Addon for Gravity Forms
+ * Plugin URI: https://developer.globalpayments.com/heartland/payments/overview
+ * Description: SecureSubmit plugin for Gravity Forms. Integrates Gravity Forms with the Global Payments Gateway using tokenized payment processing.
+ * Version: 2.2.0
+ * Author: Global Payments
+ * Author URI: https://developer.globalpayments.com
  */
 
-define('GF_SECURESUBMIT_VERSION', '2.1.3');
+define('GF_SECURESUBMIT_VERSION', '2.2.0');
 
 add_action('gform_loaded', array('GF_SecureSubmit_Bootstrap', 'load'), 5);
 

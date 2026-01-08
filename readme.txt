@@ -1,16 +1,16 @@
-=== Heartland Secure Submit Addon for Gravity Forms ===
+=== Global Payments SecureSubmit Addon for Gravity Forms ===
 Contributors: markhagan
-Tags: gravityforms, heartland, securesubmit, token, tokenize
+Tags: gravityforms, GlobalPayments, securesubmit, token, tokenize
 Tested up to: 6.7
 Stable tag: trunk
 License: GPLv2
-License URI: https://github.com/hps/heartland-gravity-forms-addon/blob/master/LICENSE.md
+License URI: https://github.com/globalpayments/globalpayments-gravity-forms/blob/main/LICENSE
 
-SecureSubmit allows merchants to take PCI-Friendly Credit Card payments with Gravity Forms using Heartland Payment Systems Payment Gateway.
+SecureSubmit allows merchants to take PCI-Friendly Credit Card payments with Gravity Forms using Global Payments Payment Gateway.
 
 == Description ==
 
-This plugin allows Gravity Forms to use the Heartland Payment Systems Gateway. All card data is tokenized using Heartland's SecureSubmit product.
+This plugin allows Gravity Forms to use the Global Payments Gateway. All card data is tokenized using Global Payments SecureSubmit product.
 
 Features of SecureSubmit:
 
@@ -23,9 +23,9 @@ Features of SecureSubmit:
 
   1. Sign Up for an account @ developer.heartlandpaymentsystems.com if you haven't already
   2. Download Gravity Forms
-  3. Install AND Activate Gravity Forms WP plugin AND Heartland SecureSubmit for Gravity Forms WP plugin
+  3. Install AND Activate Gravity Forms WP plugin AND Global Payments SecureSubmit for Gravity Forms WP plugin
   4. Configure Gravity Forms and SecureSubmit accounts:
-      * Navigate to Settings to enter your API Keys provided by your Heartland Developer Portal Account
+      * Navigate to Settings to enter your API Keys provided by your Global Payments Developer Portal Account
   5. Add Form:
       * Navigate to Forms > Add New Form > Edit Form
       * Add Required Fields:
@@ -37,10 +37,13 @@ Features of SecureSubmit:
       * Form Settings > SecureSubmit > Add new feed
   7. Add form to WP page
 
-* NEED ADDITIONAL HELP? Contact Us  http://developer.heartlandpaymentsystems.com/support
+* NEED ADDITIONAL HELP? Contact Us  https://developer.globalpayments.com/support/integration-support
 
 
 == Changelog ==
+= 2.2.0 =
+* Global payment rebranding 
+
 = 2.1.3 =
 * Fix: Security Vulnerabilities issues
 

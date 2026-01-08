@@ -9,7 +9,7 @@ if (!class_exists('GF_Field_HPSCreditCard')) {
 }
 
 /**
- * Handles Heartlands Payments with Gravity Forms
+ * Handles Global Payments with Gravity Forms
  * Class GFSecureSubmit
  */
 class GFSecureSubmit extends GFPaymentAddOn
@@ -60,12 +60,12 @@ class GFSecureSubmit extends GFPaymentAddOn
     /**
      * @var string
      */
-    protected $_title = 'Gravity Forms SecureSubmit Add-On';
+    protected $_title = 'Global Payments SecureSubmit Add-On';
 
     /**
      * @var string
      */
-    protected $_short_title = 'SecureSubmit';
+    protected $_short_title = 'Global Payments';
 
     /**
      * @var bool
