@@ -1,4 +1,6 @@
-# Global Payments Gravity Forms
+# Heartland Secure Submit Addon for Gravity Forms
+
+This extension allows Gravity Forms to use the Heartland Payment Systems Gateway. All card data is tokenized using Heartland's SecureSubmit product.
 
 ## Installation
 
